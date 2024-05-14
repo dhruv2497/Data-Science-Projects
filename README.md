@@ -1,2 +1,9 @@
-# Data-Science-Projects
-Gaind hands on through performing beginner to intermediate level data science projects designed for learning Machine Learning from building and implementing models. 
+# Exploratory Data Analysis 
+
+Libraries used to perform EDA:
+1. Pandas
+2. NumPy
+3. DateTime
+4. Matplotlib
+5. Seaborn
+6. Wordcloud
